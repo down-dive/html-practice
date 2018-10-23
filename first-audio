@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<metacharset="utf-8">
+<title>First Audio</title>
+</head>
+<body>
+<h1>My first audio page</h1>
+<p>This is my first html page with mp3 audio</p>
+<source src="audio/despasito.mp3" type="audio/mpeg">
+<a href="audio/despasito.mp3">Despasito</a>
+</body>
+</html>
