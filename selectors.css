@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+	color: green; 
+	background: orange
+}
+p {
+	color: blue;
+}
+footer p {
+	color: red;
+	text-align: center;
+}
+.highlight {
+	color: navy;
+	background: yellow;
+}
