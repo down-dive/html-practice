@@ -11,9 +11,12 @@ p footer {
 .fun {
 	color: green;
 }
+body footer {
+	color: red;
+}
 footer {
 	color: blue;
 }
-body footer {
+
 	color: red;
 }
