@@ -1,0 +1,16 @@
+h1 {
+	font-size: 180%;
+	font-weight: small-caps;
+}
+p {
+	color: purple;
+}
+p footer {
+	color: orange;
+}
+.fun {
+	color: green;
+}
+footer {
+	color: blue;
+}
