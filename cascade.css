@@ -5,14 +5,14 @@ h1 {
 p {
 	color: purple;
 }
-p footer {
+body footer p {
 	color: orange;
 }
 .fun {
 	color: green;
 }
 }
-footer {
+footer p {
 	color: blue;
 }
 
