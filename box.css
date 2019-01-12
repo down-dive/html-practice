@@ -5,12 +5,14 @@
 	margin-bottom: 20px;
 	width: 250px;
 	height: 150px;
+	box-sizing: border box;
 }
 .box-b {
 	background-color: Green;
 	padding: 45px;
-	border: 30px white;
+	border: 30px solid black;
 	width: 250px;
 	height: 150px;
+	box-sizing: border box;
 }
  	
